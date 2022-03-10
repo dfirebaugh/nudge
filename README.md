@@ -1,2 +1,2 @@
 # nudge
-I'm definitely using this computer
+Move the mouse on interval so the computer doesn't lock.
